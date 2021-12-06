@@ -8,7 +8,7 @@ Due to suspicions regarding 9th grade data at Thomas High School, that data is r
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-* How is the district summary affected?
+* How is the district summary affected? 
 * How is the school summary affected?
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -19,3 +19,6 @@ How does replacing the ninth-grade scores affect the following:
 * Scores by school type - charter schools seem to have a much better outcome for math and reading test results over district schools as there seem to be a significant difference in those test results (see type_summary_df.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+The 9th grade scores at Thomas High School definitely skew the results when running the analysis by including and not including their 9th grade data. When looking at all other schools both math and reading scores at each school does not change when we go from 9th grade, to 10th grade, to 11th grade, and 12 grade. Yet, when we including the 9th grade and and then remove it, there is a significant difference between grade scores at Thomas High School. Suspicions seem justified.
+
