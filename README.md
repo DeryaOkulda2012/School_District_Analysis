@@ -20,4 +20,4 @@ How does replacing the ninth-grade scores affect the following:
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-The 9th grade scores at Thomas High School (both math and reading) does not skew the results when running the analysis by including and then not including their 9th grade data (per_school_summary_df.dns and per_school_summary_df_NO_THS_9th.dns). The size, discrict type, spending amount, and overall percent for math and reading does not change the results by much.
+The 9th grade scores at Thomas High School (both math and reading) does not skew the results when running the analysis by including and then not including their 9th grade data (per_school_summary_df.dns and per_school_summary_df_NO_THS_9th.dns). The size, district type, spending amount, and the overall percent score for math and reading does not change the overall results by much.
