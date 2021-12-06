@@ -14,8 +14,8 @@ Due to suspicions regarding 9th grade data at Thomas High School, that data is r
 
 How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
-* Scores by school spending
-* Scores by school size
-* Scores by school type
+* Scores by school spending - surprisingly, schools with a lower per student budget seem to have better performing students than the schools which spend much higher per student, with the worst performing schools being the ones spending the most per student (spending_summary_df.png). Clearly, more money spent does not necessarily improve education. Other factors must be analyzed to understand this result.
+* Scores by school size - the largest schools (of more than 2000 students) have significantly lower test scores, for both math and reading. Schools of up to 1000 students and between 1000 to 2000 students both seem to have higher test scores. (size_summary_df.png)
+* Scores by school type - charter schools seem to have a much better outcome for math and reading test results over district schools as there seem to be a significant difference in those test results (see type_summary_df.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
