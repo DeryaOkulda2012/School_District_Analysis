@@ -2,7 +2,7 @@
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 
-Data from fifteen (15) schools with a total of more than 39,000 students with a total budget of $24 MUSD, is analyzed to see various effects of funding on educational outcome. Parameters include school size, and whether the school is a district school or a charter school.
+Data from fifteen (15) schools with a total of more than 39,000 students with a total budget of $24 MUSD, is analyzed to see various effects of funding on educational outcome. Parameters include school size, and whether the school is a district school or a charter school. Result from math and reading test are used for this analysis.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
